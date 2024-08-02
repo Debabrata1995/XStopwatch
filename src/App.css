@@ -1,0 +1,25 @@
+/* src/App.css */
+.App {
+  text-align: left;
+  margin-top: 5px;
+  margin-left: 50px;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 2rem;
+}
+
+button {
+  font-size: 1.5rem;
+  padding: 5px 10px;
+  margin: 1px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+
